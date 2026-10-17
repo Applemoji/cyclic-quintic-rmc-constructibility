@@ -35,7 +35,7 @@ The source package contains:
 
 | File | Purpose |
 | --- | --- |
-| `cyclic-quintic-rmj.tex` | Manuscript source |
+| `cyclic-quintic-rmj.pdf` | Manuscript source |
 | `rmj-public.cls` | Journal formatting class used for the draft |
 | `supplementary/CyclicQuinticRMC_SET_FIX_V2.lean` | Complete formal proof |
 | `supplementary/geometry-audit.md` | Written geometry audit |

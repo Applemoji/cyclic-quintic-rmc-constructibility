@@ -1,0 +1,78 @@
+{
+  "arithmetic": "exact rational polynomial coefficients",
+  "checks_passed": 18,
+  "checks": [
+    {
+      "name": "sextic coefficient expansion",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "reconstructed m equals 4ab",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "reconstructed q equals c squared",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "reconstructed A equals a squared",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "reconstructed radius squared",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "norm residual equals sextic residual",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "circle residual equals sextic residual",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "second mark lies on vertical line",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "ruler goes through origin",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "distance residual equals sextic residual",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "signed root recovery",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "root one strictly positive expression",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "cubic conchoid identity",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "cubic circle residual",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "cubic radius positivity identity",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "cubic mark separation",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "pure cubic auxiliary equation",
+      "result": "exact zero polynomial"
+    },
+    {
+      "name": "pure cubic recovery",
+      "result": "exact zero polynomial"
+    }
+  ]
+}

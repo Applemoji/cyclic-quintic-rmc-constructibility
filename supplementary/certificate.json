@@ -1,0 +1,82 @@
+{
+  "arithmetic": "Exact integers and fractions; no floating point",
+  "universal": {
+    "residual_coefficients_ascending": [
+      "912",
+      "792",
+      "792",
+      "384"
+    ],
+    "universal_coefficient_monomial_counts": [
+      15,
+      46,
+      30,
+      5
+    ],
+    "universal_factorization": "PASS",
+    "cyclic_invariance": "PASS"
+  },
+  "geometry": "PASS",
+  "template": {
+    "interval": [
+      "-16771/10000",
+      "-167709/100000"
+    ],
+    "cubic_endpoint_values": [
+      "-8943193/31250000000",
+      "17937874421/62500000000000"
+    ],
+    "rational_interval_enclosures": {
+      "D": [
+        "92191/5000",
+        "18439/1000"
+      ],
+      "P": [
+        "-734609/5000",
+        "-36729/250"
+      ],
+      "lambda": [
+        "271/2500",
+        "217/2000"
+      ],
+      "h": [
+        "937/5000",
+        "469/2500"
+      ],
+      "m": [
+        "4801/5000",
+        "9621/10000"
+      ],
+      "m+4h": [
+        "17101/10000",
+        "17121/10000"
+      ],
+      "c_squared": [
+        "779/2000",
+        "39/100"
+      ],
+      "a_squared": [
+        "1979/10000",
+        "2001/10000"
+      ],
+      "b_squared": [
+        "36/125",
+        "2923/10000"
+      ],
+      "rho_squared": [
+        "173/200",
+        "8697/10000"
+      ]
+    },
+    "beta_order": [
+      4,
+      1,
+      2,
+      3,
+      0
+    ],
+    "template_positivity": "PASS",
+    "note": "Enclosures hold throughout the closed rational interval, not just at its root."
+  },
+  "scope": "Finite algebraic and inequality certificates only. Analytic and field-theoretic proofs are in proof-draft.md."
+}

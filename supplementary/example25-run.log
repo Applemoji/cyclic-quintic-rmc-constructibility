@@ -1,0 +1,84 @@
+{
+  "field": "K=Q(t), t^2+t-1=0, t>0; L=K(alpha), alpha^5-5alpha^3+5alpha-t=0",
+  "sigma_alpha": "-alpha^4+4alpha^2+t*alpha-2",
+  "gamma": "(-4-2alpha+19alpha^2-5alpha^4)/4",
+  "residual_coefficients_ascending_as_a_plus_b_t": [
+    [
+      "24505/64",
+      "3745/16"
+    ],
+    [
+      "23655/32",
+      "228313/512"
+    ],
+    [
+      "3237995/4096",
+      "969225/2048"
+    ],
+    [
+      "2991485/8192",
+      "232155/1024"
+    ]
+  ],
+  "auxiliary_interval": [
+    "-29839/25000",
+    "-23871/20000"
+  ],
+  "endpoint_signs": [
+    "negative",
+    "positive"
+  ],
+  "endpoint_value_enclosures": [
+    [
+      "-21/5000",
+      "-41/10000"
+    ],
+    [
+      "17/10000",
+      "9/5000"
+    ]
+  ],
+  "rational_geometry_enclosures": {
+    "D": [
+      "101461/10000",
+      "50733/5000"
+    ],
+    "P": [
+      "-150311/5000",
+      "-75151/2500"
+    ],
+    "lambda": [
+      "1971/10000",
+      "493/2500"
+    ],
+    "h": [
+      "1151/5000",
+      "2303/10000"
+    ],
+    "m": [
+      "993/2000",
+      "4981/10000"
+    ],
+    "m+4h": [
+      "14173/10000",
+      "14191/10000"
+    ],
+    "c_squared": [
+      "77/625",
+      "309/2500"
+    ],
+    "a_squared": [
+      "89/1250",
+      "763/10000"
+    ],
+    "b_squared": [
+      "2021/10000",
+      "2177/10000"
+    ],
+    "rho_squared": [
+      "1389/2500",
+      "1143/2000"
+    ]
+  },
+  "note": "All arithmetic and interval checks exact. Cyclotomic identification and primitivity are proved in the text."
+}
